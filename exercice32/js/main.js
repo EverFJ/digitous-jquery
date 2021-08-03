@@ -9,3 +9,5 @@ $(document).ready(function() {
         })
     })
 })
+
+// Not possible in vanilla

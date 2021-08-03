@@ -5,3 +5,5 @@ $(document).ready(function() {
         })
     })
 })
+
+// No vanilla solution

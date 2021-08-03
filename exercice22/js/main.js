@@ -5,3 +5,5 @@ $(document).ready(function() {
         })
     })
 })
+
+// Not possible with vanilla...
