@@ -33,6 +33,4 @@ document.getElementsByTagName("button")[0].addEventListener("click", function() 
             document.getElementById("country").textContent = data[0].name
             document.getElementById("capital").textContent = data[0].capital
         })
-    // .then(document.getElementById("country").textContent = response[0].name)
-    // .then(document.getElementById("capital").textContent = response[0].capital)
 })
